@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.johnzon:johnzon-jsonb:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/johnzon/johnzon-jsonb/unknown/johnzon-jsonb-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/johnzon/johnzon-jsonb/unknown/johnzon-jsonb-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/johnzon/johnzon-jsonb/unknown/johnzon-jsonb-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

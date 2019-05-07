@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="akkatest" />
+        <module name="general" />
+        <module name="ignite-test" />
+        <module name="reactor-test" />
+        <module name="spring-boot" />
+        <module name="spring-webflux" />
+        <module name="springmvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="akkatest" target="1.5" />
+      <module name="general" target="1.5" />
+      <module name="ignite-test" target="1.5" />
+      <module name="reactor-test" target="1.5" />
+      <module name="scala-fp" target="1.5" />
+      <module name="spring-boot" target="9" />
+      <module name="spring-webflux" target="1.5" />
+      <module name="springmvc" target="1.5" />
+      <module name="test-projects" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
